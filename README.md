@@ -1,4 +1,21 @@
-### Hi there 👋
+I'm **Ahsan**, an electronics engineer and a programmer, currently a freelancer and up for any challenges. I have done lots of projects during my freelancing as i started my journey from 2022 so far it was quite an interest one. Meanwhile the languages i used in the professional work is:
+
+- Dart
+- Html / Css / Js / Typescript
+- Python
+
+if you want to know what Technology i used in these years is:
+
+- Website
+  - ReactJs
+  - NextJs
+  - Svelte
+- Mobile
+  - Flutter
+  - React Native
+- Backend
+  - Django
+  - NestJs
 
 <!--
 **AxanIqbal/AxanIqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
