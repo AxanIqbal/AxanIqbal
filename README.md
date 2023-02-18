@@ -17,6 +17,7 @@ if you want to know what Technology i used in these years is:
   - Django
   - NestJs
 
+![Metrics](/github-metrics.svg)
 <!--
 **AxanIqbal/AxanIqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
