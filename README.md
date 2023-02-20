@@ -1,4 +1,4 @@
-I'm **Ahsan**, an electronics engineer and a programmer, currently a freelancer and up for any challenges. I have done lots of projects during my freelancing as i started my journey from 2019 so far it was quite an interest one. Meanwhile the languages i used in the professional work is:
+Looking for a skilled and experienced full stack developer to bring your project to life? Look no further than Ahsan Iqbal! With over two years of experience as a freelancer, I have built a wide range of websites using cutting-edge technologies such as Reactjs, Sveltjs, and Nextjs. In addition, I have also proficient in backend development with Nestjs and Django. Whether you need a sleek and responsive frontend or a robust and scalable backend, I have the knowledge and expertise to get the job done right. Get in touch today to see I can help take your project to the next level!
 
 - Dart
 - Html / Css / Js / Typescript
