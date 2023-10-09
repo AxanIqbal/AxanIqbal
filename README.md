@@ -1,6 +1,6 @@
 👋 Hello, I'm Ahsan Iqbal
 
-🌐 Web Developer | Hybrid Application Developer | Full Stack Developer
+🌐 Full Stack Developer | Hybrid Application Developer
 
 📌 Introduction
 ----------------
@@ -9,13 +9,13 @@ Looking for a skilled and experienced full stack developer to bring your project
 
 🧰 Tech Stack
 ----------------
-Front-End: HTML5, CSS3, JavaScript, ReactJs, NextJs, Svelte 
-Mobile App: Flutter, React Native 
-Back-End: Django, NestJs, Node.js, Express.js, MongoDB, Postgres 
-Tools: Git, VS Code, JIRA
+- Front-End: HTML5, CSS3, JavaScript, ReactJs, NextJs, Svelte
+- Mobile App: Flutter, React Native 
+- Back-End: Django, NestJs, Node.js, Express.js, MongoDB, Postgres 
+- Tools: Git, VS Code, JIRA
 
 📫 Contact Me
 ----------------
-📧 Email: axan.iqbal1232gmail.com
+📧 Email: <a href='mailto:axan.iqbal1232gmail.com' target='_blank'>axan.iqbal123@gmail.com</a>
 
 ![Metrics](/github-metrics.svg)
