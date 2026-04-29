@@ -1,21 +1,51 @@
-👋 Hello, I'm Ahsan Iqbal
+# 👋 Hello, I'm Ahsan Iqbal
 
-🌐 Full Stack Developer | Hybrid Application Developer
+**Full Stack and Mobile Developer**
 
-📌 Introduction
-----------------
-Looking for a skilled and experienced full stack developer to bring your project to life? Look no further than Ahsan Iqbal! With over years of experience as a freelancer, I have built a wide range of websites using cutting-edge technologies such as Reactjs, Sveltjs, and Nextjs. In addition, I have also proficient in backend development with Nestjs and Django. Whether you need a sleek and responsive frontend or a robust and scalable backend, I have the knowledge and expertise to get the job done right. Get in touch today to see I can help take your project to the next level!
+I build production-ready web, mobile, backend, and AI-powered product workflows. My work spans React, Next.js, Flutter, Expo, React Native, Django, NestJS, REST APIs, PostgreSQL, MongoDB, AI SDK, OpenAI SDK, and realtime AI chat experiences with `ai-sdk/react`.
 
+## What I Work On
 
-🧰 Tech Stack
-----------------
-- Front-End: HTML5, CSS3, JavaScript, ReactJs, NextJs, Svelte
-- Mobile App: Flutter, React Native 
-- Back-End: Django, NestJs, Node.js, Express.js, MongoDB, Postgres 
-- Tools: Git, VS Code, JIRA
+- **Frontend systems:** React, Next.js, Redux Toolkit, Material UI, Tailwind CSS, responsive component systems, and API-backed interfaces.
+- **Mobile apps:** Flutter, Expo, React Native, Firebase, Supabase, Google Maps, GPS tracking, push notifications, and release-ready app UI.
+- **Backend development:** Django, Node.js, NestJS, REST APIs, authentication, PostgreSQL, MongoDB, and data workflows.
+- **AI product flows:** AI SDK, OpenAI SDK, `ai-sdk/react`, realtime streaming chat, agentic workflows, and practical automation inside real products.
 
-📫 Contact Me
-----------------
-📧 Email: <a href='mailto:axan.iqbal1232gmail.com' target='_blank'>axan.iqbal123@gmail.com</a>
+## Selected Work
+
+- **Realtime AI Chat**  
+  Realtime assistant interface using `ai-sdk/react` streaming patterns, tool-aware agent flows, and production UI state handling.
+
+- **AI Restaurant Menu Generation**  
+  Product workflow that combines user preferences and inventory data with AI SDK and OpenAI SDK patterns.
+
+- **My Personal Tracker**  
+  Flutter and Supabase app for logging and visualizing freelancing milestones.  
+  [github.com/AxanIqbal/My-Personal-Tracker](https://github.com/AxanIqbal/My-Personal-Tracker)
+
+- **E-bike**  
+  Mobile platform with Google Maps, Firebase, GPS tracking, and push notification flows.
+
+## Tech Stack
+
+| Area | Tools |
+| --- | --- |
+| Frontend | React, Next.js, Redux Toolkit, Material UI, Tailwind CSS, HTML5, CSS3, JavaScript |
+| Mobile | Flutter, Expo, React Native, Firebase, Supabase |
+| Backend | Django, Node.js, NestJS, REST APIs, PostgreSQL, MongoDB |
+| AI | AI SDK, OpenAI SDK, `ai-sdk/react`, realtime AI chat, agentic workflows |
+| Workflow | Git, VS Code, Jira, product release execution |
+
+## Certifications
+
+- Data Analysis with Python
+- Front End Development Libraries
+- JavaScript Algorithms and Data Structures
+
+## Contact
+
+- Email: [axan.iqbal123@gmail.com](mailto:axan.iqbal123@gmail.com)
+- Upwork: [upwork.com/freelancers/~017ef6ae4b77d61a54](https://www.upwork.com/freelancers/~017ef6ae4b77d61a54)
+- Fiverr: [fiverr.com/axaniqbal](https://www.fiverr.com/axaniqbal)
 
 ![Metrics](/github-metrics.svg)
